@@ -28,15 +28,30 @@ Assist the leadership, specifically the Business Director, with data-backed reco
 https://app.powerbi.com/view?r=eyJrIjoiNjVkZTZmZDEtYmVmMS00NjYyLWJiZDEtNzk5NTQ3ZDU3ZTM0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 ## Key Insights
 1. Revenue experienced a marginal decline of 0.50%, indicating potential retention or pricing challenges despite the rollout.
-
 2. Average Revenue Per User (ARPU) saw a notable increase of 11.05%, suggesting higher individual user spend or premium plan adoption.
-
 3. Monthly Active Users (MAUs) dropped by 8.28%, pointing toward engagement or retention concerns post-5G launch.
-
 4. Churn Rate rose by 1.99%, reflecting a slight uptick in customer attrition.
-
 5. Internet Combo Plans are performing well, showing promise as a potential growth lever in the current portfolio.
-
 
 ## Skills and Techstack
 Advanced Excel, Power Query , Power BI , DAX 
+
+
+## Screenshots
+1.Home Page 
+![Homepage](https://github.com/user-attachments/assets/1f182941-ab89-4955-8b4d-a9a6fda0f566)
+2.Revenue Analysis
+![Revenue Analysis](https://github.com/user-attachments/assets/0357349a-7945-4896-9440-4c3e0baf7e37)
+3.Market Share Analysis
+![Market Share Analysis](https://github.com/user-attachments/assets/47242f3a-4f36-4838-8c56-a69f98a752ac)
+4.Cities Analysis
+![Cities Analysis](https://github.com/user-attachments/assets/43828312-8de5-48c0-b3a4-ea3e8da58551)
+5.Subscriber Vs Unsubscriber Analysis
+![Subscriber Vs Unsubscriber Analysis ](https://github.com/user-attachments/assets/80be57a2-bf08-4ddd-b1bd-c4a830899950)
+6.Plan Analysis
+![Plan Analysis](https://github.com/user-attachments/assets/c172b667-c364-4f67-bd25-15c32f2bcfd8)
+
+
+
+
+
