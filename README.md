@@ -25,7 +25,7 @@ Assist the leadership, specifically the Business Director, with data-backed reco
 
 
 ## Live Dashboard Link
-https://app.powerbi.com/view?r=eyJrIjoiNjVkZTZmZDEtYmVmMS00NjYyLWJiZDEtNzk5NTQ3ZDU3ZTM0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+https://app.powerbi.com/view?r=eyJrIjoiNjVkZTZmZDEtYmVmMS00NjYyLWJiZDEtNzk5NTQ3ZDU3ZTM0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=b70290b3107eaa1dd695
 ## Key Insights
 1. Revenue experienced a marginal decline of 0.50%, indicating potential retention or pricing challenges despite the rollout.
 2. Average Revenue Per User (ARPU) saw a notable increase of 11.05%, suggesting higher individual user spend or premium plan adoption.
