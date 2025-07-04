@@ -52,6 +52,14 @@ Advanced Excel, Power Query , Power BI , DAX
 ![Plan Analysis](https://github.com/user-attachments/assets/c172b667-c364-4f67-bd25-15c32f2bcfd8)
 
 
+## 🚀 About Me
+I'm a data analyst..
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://codebasics.io/portfolio/DEVRAJ-MONDAL)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devrajmondal5/)
+
 
 
 
